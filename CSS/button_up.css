@@ -1,0 +1,26 @@
+.search-button{
+    border-radius: 10px;
+    border-style: solid;
+    border-color: mediumseagreen;
+    color: mediumseagreen;
+    font-weight: bold;
+    width: 150px;
+}
+
+.plus-button{
+    margin: 10px auto;
+    border-radius: 50%;
+    background-color: mediumseagreen;
+    color: white;
+    border-style: solid;
+    border-color: mediumseagreen;
+}
+
+.acct-button{ 
+    color: white;
+    background-color: dodgerblue;
+    height: 25px;
+    width: 150px;
+    box-shadow: 3px 2px black;
+
+}
